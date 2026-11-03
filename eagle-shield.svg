@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+<title id="title">BIT Cyber Shield Eagle</title><desc id="desc">Original eagle and shield emblem in blue and neon green.</desc>
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19a7ff"/><stop offset="1" stop-color="#00e6a0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M120 10 207 42v65c0 58-36 99-87 123-51-24-87-65-87-123V42z" fill="#08192b" stroke="url(#g)" stroke-width="7"/>
+<path d="M42 77 88 55l31 24-26 5-36 20 39 2 21 16-33 4-35-13 29 31-36-7 18 27-29-14 12-27-19-18 20-14z" fill="url(#g)"/>
+<path d="m198 77-46-22-31 24 26 5 36 20-39 2-21 16 33 4 35-13-29 31 36-7-18 27 29-14-12-27 19-18-20-14z" fill="url(#g)"/>
+<path d="m120 57 14 29 31 5-23 21 6 31-28-15-28 15 6-31-23-21 31-5z" fill="#e9f5ff" filter="url(#glow)"/>
+<path d="M120 92v62m-20-28 20 12 20-12" fill="none" stroke="#071525" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M81 177h78" stroke="#00e6a0" stroke-width="5" stroke-linecap="round"/>
+</svg>
